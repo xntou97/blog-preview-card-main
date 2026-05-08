@@ -124,18 +124,18 @@
 
   @media (min-width:1025px) {
       .wrapper {
-          max-width: 21rem;
+          max-width: 22rem;
           padding-top: 1rem;
       }
 
 
       .image_wrapper {
-          max-width: 19rem;
+          max-width: 20rem;
           max-height: 20rem;
       }
 
       .illustration {
-          max-width: 19rem;
+          max-width: 20rem;
           max-height: 20rem;
       }
 
@@ -167,7 +167,7 @@
       }
 
       .author_container {
-          margin: 1.2rem 0 1.2rem 0;
+          margin: 0.8rem 0 0.8rem 0;
 
       }
 
