@@ -156,7 +156,7 @@
       .synopsis {
           margin: 0 1rem 0 1rem;
           font-size: 0.85rem;
-          line-height: 1.2rem;
+          line-height: 1.5rem;
       }
 
       .date_of_publication {
@@ -167,7 +167,7 @@
       }
 
       .author_container {
-          margin: 0.8rem 0 0.8rem 0;
+          margin: 1rem 0 1rem 0;
 
       }
 
